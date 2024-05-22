@@ -1,0 +1,1276 @@
+body {
+    background-color: rgba(37, 35, 35, 0.822);
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.allmaindiv {
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+
+.naftmarkoplace {
+    font-size: 30px;
+}
+
+.maindiv {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 100px;
+}
+
+.buttonget {
+    border: none;
+    border-radius: 20px;
+    background: #A259FF;
+    display: flex;
+    height: 60px;
+    padding: 0px 40px;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    color: #FFF;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 140%;
+    margin-top: 50px;
+}
+
+.header {
+    padding: 20px;
+    color: white;
+    font-family: Source Sans Pro;
+}
+
+
+.navdiv {
+    display: flex;
+    justify-content: space-between;
+}
+
+.button {
+    height: 40px;
+    width: 110px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    border: none;
+    border-radius: 13px;
+    background: #A259FF;
+    padding: 5px 10px;
+    margin-top: 25px;
+}
+
+.lobutton {
+    padding-left: 10px;
+    color: white;
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100%;
+}
+
+.walletimage {
+    height: 250px;
+    width: 250px;
+}
+
+.nftimg {
+    color: white;
+    font-family: Source Sans Pro;
+    align-items: center;
+}
+
+.ptagdiv {
+    display: flex;
+    margin-top: 28px;
+}
+
+.image1 {
+    height: 33px;
+    width: 33px;
+    margin-top: 32px;
+}
+
+.k240 {
+    display: flex;
+    margin-top: 40px;
+}
+
+.tosaler {
+    margin-top: 50px;
+    color: var(--White, #FFF);
+    font-size: 19px;
+    padding-right: 80px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%;
+    text-transform: capitalize;
+}
+
+.Discoverdiv {
+    width: 450px;
+    margin-left: 80px;
+}
+
+.h1tag {
+    color: var(--White, #FFF);
+    font-family: sans-serif;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 110%;
+    text-transform: capitalize;
+    margin-bottom: 0px;
+}
+
+.bftptag {
+    color: var(--White, #FFF);
+    font-family: "Work Sans";
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%;
+    text-transform: capitalize;
+    margin-top: 15px;
+}
+
+.imgdiv {
+    height: 515px;
+    margin-top: 70px;
+    border-radius: 20px;
+    background: var(--Background---Secondary, #3b3b3b9c);
+}
+
+.ptagspace {
+    padding-left: 20px;
+    color: #FFF;
+    font-family: sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 140%;
+    text-transform: capitalize;
+}
+
+.imgptagani {
+    padding-left: 20px;
+    color: #FFF;
+    font-family: sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%;
+    display: flex;
+}
+
+.imgptaganiimg {
+    padding-top: 13px;
+    padding-right: 10px;
+    height: 20px;
+}
+
+.buttonview {
+    border: 1px solid #A259FF;
+    border-radius: 20px;
+    display: flex;
+    height: 55px;
+    padding: 0px 40px;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 140%;
+    margin-top: 70px;
+    background-color: rgba(37, 35, 35, 0.623)
+}
+
+.viewbuutondiv {
+    display: flex;
+    justify-content: space-between;
+}
+
+.topcreter {
+    color: var(--White, #FFF);
+    font-family: "Work Sans";
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 120%;
+    text-transform: capitalize;
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
+
+.checkoutag {
+    color: var(--White, #FFF);
+    font-family: "Work Sans";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%;
+    text-transform: capitalize;
+    margin-top: 10px;
+}
+
+.car1 {
+    border-radius: 20px;
+    background: var(--Background, #2B2B2B);
+    width: 15px;
+    padding-left: 6px;
+    color: var(--caption-label-text, #858584);
+}
+
+.Totalsales {
+    display: flex;
+    margin-top: 0px;
+
+}
+
+.leepitreal {
+    margin-bottom: 0px;
+    padding-left: 30px;
+    margin-top: 10px;
+    color: #FFF;
+    font-family: sans-serif;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 140%;
+    text-transform: capitalize;
+}
+
+.totalsaes {
+    color: #858584;
+    text-align: right;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%;
+}
+
+.eth3453 {
+    color: var(--Text, #FFF);
+    font-family: sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%;
+}
+
+.card1 {
+    padding-left: 30px;
+    align-items: center;
+    flex: 1 0 0;
+    border-radius: 20px;
+    background: #3B3B3B;
+    margin-right: 70px;
+}
+
+.carimg {
+    padding-left: 20px;
+}
+
+.cardmaindiv {
+    display: flex;
+}
+
+.card4 {
+    padding-left: 20px;
+    padding-right: 4;
+    width: 140px;
+    align-items: center;
+    flex: 1 0 0;
+    border-radius: 20px;
+    background: #3B3B3B;
+}
+
+.leepitreal1 {
+    margin-bottom: 0px;
+    padding-left: 45px;
+    margin-top: 10px;
+    color: #FFF;
+    font-family: sans-serif;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 140%;
+    text-transform: capitalize;
+}
+
+.car11 {
+    color: var(--caption-label-text, #858584);
+    align-items: center;
+    flex: 1 0 0;
+    width: 18px;
+    border-radius: 20px;
+    background: var(--Background, #2B2B2B);
+    padding-left: 2px;
+
+}
+
+.cardmaindiv1 {
+    margin-top: 40px;
+    display: flex;
+}
+
+.cars1 {
+    display: flex;
+}
+
+.h11025 {
+    height: 45px;
+    margin-top: 10px;
+    background: rgb(143, 58, 255);
+    font-size: 22px;
+    color: white;
+    font-family: sans-serif;
+    border-radius: 20px;
+    padding: 40px 20px 15px 15px;
+}
+
+.dogimg {
+    height: 100px;
+    padding-right: 20px;
+    margin-top: 10px;
+}
+
+.topcrete {
+    font-size: 28px;
+    color: var(--White, #FFF);
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 120%;
+    text-transform: capitalize;
+    margin-bottom: 0px;
+}
+
+.checkouta {
+    color: var(--White, #FFF);
+    font-family: sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%;
+    text-transform: capitalize;
+    margin-top: 5px;
+}
+
+.dogcardmaindiv {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 70px;
+}
+
+.catimg {
+    height: 20px;
+    padding-top: 13px;
+    padding-right: 10px;
+}
+
+.mrfoxx {
+    color: white;
+    font-family: sans-serif;
+}
+
+.blorimgmiandiv {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 80px;
+}
+
+.blorimage {
+    height: 200px;
+    width: 260px;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.blorimage1 {
+    height: 200px;
+    width: 260px;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.blorimagediv {
+    height: 260px;
+    border-radius: 20px;
+    margin: 0px 30px;
+    background: var(--Background---Secondary, #3b3b3b9c);
+}
+
+.arts {
+    padding-left: 15px;
+    color: white;
+}
+
+.topcret {
+    color: white;
+    font-size: 30px;
+    font-family: sans-serif;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.backimagediv {
+    background-image: url(./image/backround\ image.png);
+    width: 100%;
+    height: 500px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    background-repeat: no-repeat;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+
+.buttonge {
+    border: none;
+    border-radius: 16px;
+    background: #d9d1e4;
+    display: flex;
+    height: 50px;
+    padding: 5px 30px;
+    justify-content: center;
+    align-items: center;
+    color: rgba(20, 19, 19, 0.815);
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 140%;
+    margin-top: 50px;
+    gap: 8px;
+}
+
+.lobutto {
+    padding-left: 10px;
+    color: white;
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100%;
+}
+
+.btton {
+    height: 40px;
+    width: 110px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    border: none;
+    border-radius: 13px;
+    background: rgb(20, 19, 19);
+    padding: 5px 10px;
+
+}
+
+.h1magic {
+    color: white;
+    font-family: Source Sans Pro;
+    font-size: 65px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100%;
+    margin-top: 20px;
+}
+
+.button2div {
+    margin-top: 100px;
+    padding-top: 158px;
+    padding-left: 100px;
+}
+
+.h1tag51 {
+    color: white;
+    margin-right: 35px;
+    font-family: Source Sans Pro;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 50%;
+    margin-top: 0px;
+}
+
+.h1tag59 {
+    color: white;
+    font-family: Source Sans Pro;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 50%;
+    margin-top: 0px;
+}
+
+.auctionptag {
+    color: white;
+    font-family: Source Sans Pro;
+}
+
+.ptaghours {
+    color: white;
+    font-family: Source Sans Pro;
+    margin-right: 50px;
+    margin-top: 0px;
+}
+
+.horsmaindiv {
+    background-color: #2b2b2b65;
+    height: 130px;
+    width: 260px;
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 315px;
+}
+
+.buttonmaindiv {
+    display: flex;
+    justify-content: space-around;
+}
+
+.buttoni {
+    border: none;
+    border-radius: 16px;
+    background-color: rgba(37, 35, 35, 0.349);
+    display: flex;
+    height: 50px;
+    padding: 5px 30px;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 140%;
+    margin-top: 50px;
+    gap: 8px;
+}
+
+.morenfts {
+    font-family: sans-serif;
+    color: white;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100%;
+    margin-bottom: 15px;
+    padding-bottom: 0px;
+}
+
+.newexplore {
+    font-family: sans-serif;
+    color: white;
+    font-size: 18px;
+    font-style: normal;
+    padding-right: 100px;
+    padding-left: 0px;
+    font-weight: 700;
+    line-height: 100%;
+    margin-top: 0px;
+}
+
+.discoverexplorebutton {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 100px;
+}
+
+.girlimage {
+    height: 30px;
+    width: 30px;
+    padding-right: 10px;
+}
+
+.distancegalaxy {
+    color: white;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100%;
+}
+
+.moondanac {
+    color: white;
+    margin-bottom: 5px;
+    margin-top: 7px;
+}
+
+.price163 {
+    margin-top: 0px;
+    padding-right: 120px;
+    color: white;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100%;
+}
+
+.Highest033 {
+    margin-top: 0px;
+    color: white;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100%;
+}
+
+.cardsdiv1 {
+    height: 480px;
+    width: 331px;
+    background: #868686;
+    border-radius: 20px;
+}
+
+.cardsmaidiv {
+    margin: 0px 20px;
+}
+
+.cardsmaindiv {
+    display: flex;
+    justify-content: space-around;
+}
+
+.morenft {
+    font-family: sans-serif;
+    color: white;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100%;
+    margin-bottom: 15px;
+    padding-bottom: 0px;
+}
+
+.newexplor {
+    font-family: sans-serif;
+    color: white;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100%;
+    margin-top: 0px;
+}
+
+.workdiv {
+    margin-left: 80px;
+}
+
+.cardsdiv2 {
+    height: 380px;
+    width: 300px;
+    background: #868686;
+    border-radius: 30px;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+.h3tgsetup {
+    font-family: sans-serif;
+    color: white;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100%;
+    margin-top: 0px;
+}
+
+.ptgsetup {
+    color: white;
+    padding: 10px 0px;
+}
+
+.maindivcards2 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 80px;
+}
+
+.input {
+    height: 35px;
+    width: 200px;
+    border-radius: 10px;
+    background: none;
+    border: none;
+    padding-left: 10px;
+    outline: none;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.submit {
+    margin-left: 0px;
+    width: 100px;
+    height: 36px;
+    border-radius: 10px;
+    background: #A259FF;
+    color: white;
+    outline: none;
+    margin-right: 0px;
+    border: 10px solid #A259FF;
+    cursor: pointer
+}
+
+.inputbackimage {
+    background-image: url(./image/images.png);
+    height: 35px;
+    width: 200px;
+    display: flex;
+    border-radius: 10px;
+}
+
+.h1tagjoin {
+    color: white;
+    font-family: sans-serif;
+    font-size: 38px;
+    margin-bottom: 0px;
+}
+
+.ptagget {
+    margin-top: 5px;
+    color: white;
+    font-family: sans-serif;
+}
+
+.joinourmaindiv {
+    height: 400px;
+    width: 84%;
+    background: #868686;
+    padding: 50px;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 50px;
+    border-radius: 50px;
+    margin-top: 80px;
+}
+
+.robotimage {
+    border-radius: 20px;
+}
+
+.h1tagandp1atg {
+    margin-top: 70px;
+    margin-left: 50px;
+}
+
+.nftend {
+    color: white;
+    margin-top: 5px;
+    font-family: sans-serif;
+    margin-bottom: 2px;
+}
+
+.jion {
+    color: white;
+    font-family: sans-serif;
+}
+
+.nftplace {
+    color: white;
+    font-family: sans-serif;
+}
+
+.endmaindiv {
+    display: flex;
+    justify-content: space-around;
+}
+
+.explorediv {
+    margin-top: 35px;
+}
+
+.cimage {
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+}
+
+.cmaindiv {
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+}
+
+.nftmarkers {
+    padding-left: 10px;
+    color: white;
+    font-family: sans-serif;
+}
+
+.planeimage {
+    width: 100%;
+}
+
+@media only screen and (max-width: 700px) {
+    body {
+        margin-left: 10px;
+        margin-right: 10px;
+        width: 100%;
+    }
+
+    .maindiv {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        margin-bottom: 100px;
+    }
+
+    .dogcardmaindiv {
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+
+    .header {
+        color: white;
+        font-family: Source Sans Pro;
+        display: none;
+        justify-content: space-between;
+    }
+
+    .buttoni {
+        border: none;
+        border-radius: 16px;
+        background-color: rgba(37, 35, 35, 0.349);
+        display: flex;
+        height: 50px;
+        padding: 5px 30px;
+        justify-content: center;
+        align-items: center;
+        color: white;
+        text-align: center;
+        font-family: sans-serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 140%;
+        margin-top: 50px;
+        gap: 8px;
+        display: none;
+    }
+
+    .buttonget {
+        border: none;
+        border-radius: 20px;
+        background: #A259FF;
+        display: flex;
+        height: 60px;
+        padding: 0px 40px;
+        justify-content: center;
+        align-items: center;
+        gap: 12px;
+        color: #FFF;
+        text-align: center;
+        font-family: sans-serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 140%;
+        margin-top: 50px;
+        width: 50%;
+    }
+
+    .nftimg {
+        color: white;
+        font-family: Source Sans Pro;
+        align-items: center;
+    }
+
+    .morenft {
+        font-family: sans-serif;
+        color: white;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 100%;
+        margin-bottom: 15px;
+        padding-bottom: 0px;
+    }
+
+    .navdiv {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .moonmage {
+        width: 300px;
+        height: 400px;
+    }
+
+    .button {
+        height: 40px;
+        width: 110px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        border: none;
+        border-radius: 13px;
+        background: #A259FF;
+        margin-top: 25px;
+        display: none;
+    }
+
+    .discoverexplorebutton {
+        width: 100%;
+
+    }
+
+    .Discoverdiv {
+        width: 100%;
+        flex-direction: column;
+        /* align-items: center; */
+        justify-content: left;
+    }
+
+    .h1tag {
+        color: var(--White, #FFF);
+        font-family: sans-serif;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 110%;
+        text-transform: capitalize;
+        margin-bottom: 0px;
+        width: 100%;
+        display: flex;
+    }
+
+    .bftptag {
+        color: var(--White, #FFF);
+        font-family: "Work Sans";
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 160%;
+        text-transform: capitalize;
+        margin-top: 15px;
+    }
+
+    .blorimgmiandiv {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+    }
+
+    .cardmaindiv1 {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+    }
+
+    .viewbuutondiv {
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+    }
+
+    .buttonmaindiv {
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+
+    .naftmarkoplace {
+        font-size: 20px;
+    }
+
+    .image1 {
+        height: 20px;
+        width: 20px;
+    }
+
+    .k240 {
+        display: flex;
+        margin-top: 40px;
+        width: 50%;
+    }
+
+    .buttonview {
+        border: 1px solid #A259FF;
+        border-radius: 20px;
+        display: flex;
+        height: 55px;
+        padding: 0px 40px;
+        justify-content: center;
+        align-items: center;
+        gap: 12px;
+        color: white;
+        text-align: center;
+        font-family: sans-serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 140%;
+        margin-top: 70px;
+        display: none;
+        background-color: rgba(37, 35, 35, 0.623)
+    }
+
+    .carimg {
+        padding-left: 5px;
+        width: 40px;
+        height: 40px;
+    }
+
+    .Totalsales {
+        display: flex;
+        margin-top: 0px;
+
+    }
+
+    .card1 {
+        align-items: center;
+        /* flex: 1 0 0; */
+        border-radius: 20px;
+        background: #3B3B3B;
+        display: flex;
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .leepitreal {
+        margin-bottom: 0px;
+        padding-left: 30px;
+        margin-top: 10px;
+        color: #FFF;
+        font-family: sans-serif;
+        font-size: 19px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 140%;
+        text-transform: capitalize;
+    }
+
+    .tosaler {
+        margin-top: 50px;
+        color: var(--White, #FFF);
+        font-size: 16px;
+        padding-right: 30px;
+        font-family: sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 140%;
+        text-transform: capitalize;
+    }
+
+    .car1 {
+        border-radius: 20px;
+        background: var(--Background, #2B2B2B);
+        width: 15px;
+        color: var(--caption-label-text, #858584);
+    }
+
+    .backimagediv {
+        background-image: url(./image/backround\ image.png);
+        width: 100%;
+        height: 500px;
+        margin-left: 0px;
+        margin-right: 0px;
+        padding-left: 0px;
+        padding-right: 0px;
+        background-repeat: no-repeat;
+        margin-top: 50px;
+        display: none;
+        border-radius: 10px;
+    }
+
+    .morenfts {
+        font-family: sans-serif;
+        color: white;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 100%;
+        margin-bottom: 15px;
+        padding-bottom: 0px;
+    }
+
+    .newexplore {
+        font-family: sans-serif;
+        color: white;
+        font-size: 12px;
+        font-style: normal;
+        padding-right: 100px;
+        padding-left: 0px;
+        font-weight: 700;
+        line-height: 100%;
+        margin-top: 0px;
+    }
+
+    .cardsmaindiv {
+        width: 100%;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+        padding-left: 0px;
+    }
+
+    .newexplor {
+        font-family: sans-serif;
+        color: white;
+        padding-left: 0px;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 100%;
+        margin-top: 0px;
+    }
+
+    .maindivcards2 {
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+        margin-top: 40px;
+    }
+
+    .cardsdiv2 {
+        height: 150px;
+        width: 100%;
+        background: #868686;
+        border-radius: 30px;
+        padding: 20px;
+        margin-top: 40px;
+        display: flex;
+    }
+
+    .robotimage {
+        border-radius: 20px;
+        width: 80%;
+    }
+
+    .joinourmaindiv {
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+        background: none;
+        margin-left: 0px;
+    }
+
+    .h1tagjoin {
+        color: white;
+        font-family: sans-serif;
+        font-size: 25px;
+        margin-bottom: 0px;
+    }
+
+    .ptagget {
+        margin-top: 5px;
+        color: white;
+        font-family: sans-serif;
+        font-size: 18px;
+    }
+
+    .inputbackimage {
+        height: 200px;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+        border-radius: 10px;
+        background: none;
+    }
+
+    .submit {
+        width: 100%;
+        height: 36px;
+        border-radius: 10px;
+        background: #A259FF;
+        color: white;
+        outline: none;
+        margin-right: 0px;
+        cursor: pointer
+    }
+
+    .cardsdiv1 {
+        height: 480px;
+        width: 331px;
+        background: #868686;
+        border-radius: 20px;
+        margin-top: 40px;
+    }
+
+    .input {
+        margin-top: 40px;
+        background: white;
+        border: none;
+        padding-left: 10px;
+        outline: none;
+        margin-right: 0px;
+        margin-left: 0px;
+        width: 95%;
+    }
+
+    .nftplace {
+        color: white;
+        font-family: sans-serif;
+        font-size: 20px;
+    }
+
+    .endmaindiv {
+        justify-content: left;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .image1 {
+        height: 28px;
+        width: 28px;
+        margin-top: 16px;
+    }
+
+    .nftmarkers {
+        padding-left: 10px;
+        font-size: 10px;
+        color: white;
+        font-family: sans-serif;
+    }
+
+    .allmaindiv {
+        margin-left: 0px;
+        margin-right: 100px;
+
+    }
+
+    .walletimage {
+        height: 150px;
+        width: 150px;
+    }
+
+    .h1tagandp1atg {
+        margin-top: 0px;
+        margin-left: 0px;
+    }
+
+    .dogimg {
+        height: 100px;
+        width: 100%;
+    }
+}
